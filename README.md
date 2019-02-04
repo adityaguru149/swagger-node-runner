@@ -1,3 +1,6 @@
+Just a fork from original with required updates for security vulnerabilities. Be sure to check of the original package is back up.
+Upgraded Sway to ^2.0.5, lodash to ^4.17.11
+Updated test cases
 # Middleware for Swagger projects
 
 [![Build Status](https://travis-ci.org/apigee-127/swagger-node-runner.svg?branch=master)](https://travis-ci.org/apigee-127/swagger-node-runner)
