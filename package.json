@@ -1,5 +1,5 @@
 {
-  "name": "swagger-node-runner",
+  "name": "swagger-node-runner1",
   "version": "0.8.0",
   "description": "Swagger loader and middleware utilities",
   "keywords": [
@@ -12,12 +12,12 @@
     "swagger-hapi",
     "swagger-sails"
   ],
-  "author": "Scott Ganyo <sganyo@apigee.com>",
+  "author": "Scott Ganyo <sganyo@apigee.com>; Aditya Guru <aditya.guru149@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/theganyo/swagger-node-runner.git"
+    "url": "https://github.com/adityaguru149/swagger-node-runner.git"
   },
   "dependencies": {
     "async": "^1.5.0",
