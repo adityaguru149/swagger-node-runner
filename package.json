@@ -1,6 +1,6 @@
 {
   "name": "swagger-node-runner1",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Swagger loader and middleware utilities",
   "keywords": [
     "swagger",
@@ -21,13 +21,13 @@
   },
   "dependencies": {
     "async": "^1.5.0",
-    "bagpipes": "^0.1.0",
+    "bagpipes": "^0.2.2",
     "body-parser": "^1.14.1",
     "config": "^1.16.0",
     "cors": "^2.5.3",
     "debug": "^2.1.3",
     "js-yaml": "^3.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.20",
     "multer": "^1.0.6",
     "parseurl": "^1.3.0",
     "qs": "^6.4.0",
